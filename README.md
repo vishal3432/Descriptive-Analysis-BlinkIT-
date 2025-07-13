@@ -113,12 +113,6 @@ This enables users to drill down into specific business areas for custom insight
 
 ---
 
-## 💼 Resume Entry Example
-
-> **Power BI Dashboard – Blinkit Sales Analytics**  
-> Built an interactive Power BI dashboard to analyze sales patterns, outlet performance, and customer engagement for a retail delivery platform. Used DAX and Power Query for custom metrics and filtering. Visualized multi-tier regional insights and item category performance to support business decisions.
-
----
 
 ## 🔗 Connect with Me
 
