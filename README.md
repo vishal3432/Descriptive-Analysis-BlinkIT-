@@ -112,7 +112,20 @@ This enables users to drill down into specific business areas for custom insight
 📥 [Download Blinkit Dashboard (.pbix)](https://drive.google.com/file/d/1UfDvurRQqlWPFmJAoeUE5CFEee11M2du/view?usp=drive_link)
 
 ---
+📄 FINAL ANALYSIS REPORT
+🔹 Key Findings
 
+Total Sales: $1.20M
+
+Avg Order Value: $141
+
+Peak Contribution: Tier 3 outlets
+
+Best Outlet Type: Supermarket Type 1
+
+Top Category Influence: Low Fat items strong revenue
+
+Customer Rating Stable: ~3.9
 
 ## 🔗 Connect with Me
 
